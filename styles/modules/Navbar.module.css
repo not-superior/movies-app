@@ -1,0 +1,11 @@
+.content{
+    height: 2.7em;
+    width: 100%;
+    border: 1px solid black;
+    position: relative;
+}
+
+.search{
+    right: 20px;
+    position: absolute;
+}
